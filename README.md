@@ -195,3 +195,4 @@ minusTwo(triple(5));
 ???
 
 View [JavaScript Basics Quiz](https://github.com/learn-co-curriculum/js-basics-javascript-basics-quiz) on Learn.co and start learning to code for free.
+<p data-visibility='hidden'>PHRG JavaScript Basics Quiz</p>
